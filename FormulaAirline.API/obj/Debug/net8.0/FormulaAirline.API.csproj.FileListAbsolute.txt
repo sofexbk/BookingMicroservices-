@@ -31,3 +31,4 @@ C:\Users\SOUFIAN BK\source\repos\MicroservicesRMQ\FormulaAirline.API\obj\Debug\n
 C:\Users\SOUFIAN BK\source\repos\MicroservicesRMQ\FormulaAirline.API\obj\Debug\net8.0\FormulaAirline.API.genruntimeconfig.cache
 C:\Users\SOUFIAN BK\source\repos\MicroservicesRMQ\FormulaAirline.API\obj\Debug\net8.0\ref\FormulaAirline.API.dll
 C:\Users\SOUFIAN BK\source\repos\MicroservicesRMQ\FormulaAirline.API\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\SOUFIAN BK\source\repos\MicroservicesRMQ\FormulaAirline.API\obj\Debug\net8.0\FormulaAirline.API.sourcelink.json

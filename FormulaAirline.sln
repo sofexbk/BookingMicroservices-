@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormulaAirline.API", "FormulaAirline.API\FormulaAirline.API.csproj", "{BF8E2F12-3433-4394-8A32-E2D3B175FE72}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormulaAirline.TicketProcessing", "FormulaAirline.TicketProcessing\FormulaAirline.TicketProcessing.csproj", "{F7521B16-40E1-4021-A518-E02BC3BA0B4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormulaAirline.TicketProcessing", "FormulaAirline.TicketProcessing\FormulaAirline.TicketProcessing.csproj", "{756B2465-9C70-48C0-8B9A-45E544992858}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormulaAirline.API", "FormulaAirline.API\FormulaAirline.API.csproj", "{BEFB1E78-7048-4793-83FB-3948B5B31E47}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -16,13 +16,13 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{BF8E2F12-3433-4394-8A32-E2D3B175FE72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BF8E2F12-3433-4394-8A32-E2D3B175FE72}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BF8E2F12-3433-4394-8A32-E2D3B175FE72}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BF8E2F12-3433-4394-8A32-E2D3B175FE72}.Release|Any CPU.Build.0 = Release|Any CPU
-		{756B2465-9C70-48C0-8B9A-45E544992858}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{756B2465-9C70-48C0-8B9A-45E544992858}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{756B2465-9C70-48C0-8B9A-45E544992858}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{756B2465-9C70-48C0-8B9A-45E544992858}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7521B16-40E1-4021-A518-E02BC3BA0B4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7521B16-40E1-4021-A518-E02BC3BA0B4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7521B16-40E1-4021-A518-E02BC3BA0B4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7521B16-40E1-4021-A518-E02BC3BA0B4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEFB1E78-7048-4793-83FB-3948B5B31E47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEFB1E78-7048-4793-83FB-3948B5B31E47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEFB1E78-7048-4793-83FB-3948B5B31E47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEFB1E78-7048-4793-83FB-3948B5B31E47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
